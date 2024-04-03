@@ -113,7 +113,7 @@
 
     ```
    
-8. [ ] En el script debe organizar la informacion moviendo los archivos a su respectiva carpeta usando el comando *`"mv"`*:
+8. [x] En el script debe organizar la informacion moviendo los archivos a su respectiva carpeta usando el comando *`"mv"`*:
    
       - [x] Mueve el archivo *`style.css`* a la carpeta **`css`**
       - [x] Los archivos *`fileN.txt`* a la carpeta **`docs/text`**
